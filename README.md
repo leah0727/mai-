@@ -2,11 +2,9 @@
 
 [![Report](https://img.shields.io/badge/Report-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://yeongeun-ra-2025.netlify.app/files/19_mai.pdf)
 
-[![Report](https://img.shields.io/badge/Report-PDF-red?logo=adobeacrobatreader)](https://yeongeun-ra-2025.netlify.app/files/19_mai.pdf)
-
-[![Report](https://img.shields.io/badge/Report-PDF-red?style=plastic&logo=adobeacrobatreader)](https://yeongeun-ra-2025.netlify.app/files/19_mai.pdf)
-
-[![Report](https://img.shields.io/badge/Report-PPT-orange?style=for-the-badge&logo=microsoftpowerpoint)](https://yeongeun-ra-2025.netlify.app/files/19_mai.pdf)
+<a href="https://yeongeun-ra-2025.netlify.app/files/19_mai.pdf">
+  <img src="https://img.shields.io/badge/Report-PDF-red?style=for-the-badge&logo=adobeacrobatreader" width="250">
+</a>
 
 
 - Designed an AI model to predict gene expression profiles from H&E-stained histopathological images by leveraging the relationship between tissue morphology and gene expression data.
